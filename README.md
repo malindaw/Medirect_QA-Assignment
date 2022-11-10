@@ -33,8 +33,8 @@ __Run the project in Local Machine___
 
 ## Technologies used in the project
 
-•	C# .AspNet.webapi core 5.2
-•	aspnetcore.mvc 2.25
-•	RestSharp 108.0.2
-•	Nunit 3.13.3 
-•	.Net core 6.0
+-	C# .AspNet.webapi core 5.2
+-	aspnetcore.mvc 2.25
+-	RestSharp 108.0.2
+-	Nunit 3.13.3 
+-	.Net core 6.0
