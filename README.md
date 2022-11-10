@@ -26,7 +26,7 @@ Make sure you have install following to run the project:
 __Run the project in Local Machine___
 - Clone the  project from the git hub
 - Open/Import the project to the Visual Studio
-- Add dependendt plugins to the VS from Nuget Package Manager.
+- Add dependencies as a plugins to the VS from Nuget Package Manager.
 - build the solution and run the test
 - test results will generate in ExtentReport, it will appear in Root>Result>index.html
 
@@ -48,5 +48,9 @@ Make sure you have install following to run the project:
 __Run the project in Local Machine___
 - Clone the projects from the git hub (there are two projects)
 - Open/Import the project to the Visual Studio
-- Add dependendt plugins to the VS from Nuget Package Manager.
+- Add dependencies as a plugins to the VS from Nuget Package Manager.
 - build the solution and run the test
+# Note
+- add text file to this location in the same name for when running PETtests (C:\\temp\\testcasesample.txt)
+ (this is just sample file for test upload.optional one. location is not fixed. you can keep anywhere)
+- when running delete test we have to add existing ID as a parameter 
