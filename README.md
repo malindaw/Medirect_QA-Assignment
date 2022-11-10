@@ -28,8 +28,14 @@ __Run the project in Local Machine___
 - Open/Import the project to the Visual Studio
 - Add dependendt plugins to the VS from Nuget Package Manager.
 - build the solution and run the test
+- test results will generate in ExtentReport, it will appear in Root>Result>index.html
 
 # Medirect_QA-Assignment for API Project
+
+## Run the Project
+
+__Pre-requirements__
+Make sure you have install following to run the project:
 
 ## Technologies used in the project
 
@@ -38,3 +44,9 @@ __Run the project in Local Machine___
 -	RestSharp 108.0.2
 -	Nunit 3.13.3 
 -	.Net core 6.0
+
+__Run the project in Local Machine___
+- Clone the projects from the git hub (there are two projects)
+- Open/Import the project to the Visual Studio
+- Add dependendt plugins to the VS from Nuget Package Manager.
+- build the solution and run the test
