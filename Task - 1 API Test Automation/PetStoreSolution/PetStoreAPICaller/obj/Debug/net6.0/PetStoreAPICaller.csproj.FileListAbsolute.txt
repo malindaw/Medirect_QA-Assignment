@@ -1,0 +1,36 @@
+C:\Udeepa\SDET\Interview\Test\Src\PetStoreAPICaller\bin\Debug\net6.0\PetStoreAPICaller.deps.json
+C:\Udeepa\SDET\Interview\Test\Src\PetStoreAPICaller\bin\Debug\net6.0\PetStoreAPICaller.dll
+C:\Udeepa\SDET\Interview\Test\Src\PetStoreAPICaller\bin\Debug\net6.0\PetStoreAPICaller.pdb
+C:\Udeepa\SDET\Interview\Test\Src\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.csproj.AssemblyReference.cache
+C:\Udeepa\SDET\Interview\Test\Src\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udeepa\SDET\Interview\Test\Src\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.AssemblyInfoInputs.cache
+C:\Udeepa\SDET\Interview\Test\Src\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.AssemblyInfo.cs
+C:\Udeepa\SDET\Interview\Test\Src\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.csproj.CoreCompileInputs.cache
+C:\Udeepa\SDET\Interview\Test\Src\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.dll
+C:\Udeepa\SDET\Interview\Test\Src\PetStoreAPICaller\obj\Debug\net6.0\refint\PetStoreAPICaller.dll
+C:\Udeepa\SDET\Interview\Test\Src\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.pdb
+C:\Udeepa\SDET\Interview\Test\Src\PetStoreAPICaller\obj\Debug\net6.0\ref\PetStoreAPICaller.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStoreAPICaller\bin\Debug\net6.0\PetStoreAPICaller.deps.json
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStoreAPICaller\bin\Debug\net6.0\PetStoreAPICaller.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStoreAPICaller\bin\Debug\net6.0\PetStoreAPICaller.pdb
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.csproj.AssemblyReference.cache
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.AssemblyInfoInputs.cache
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.AssemblyInfo.cs
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.csproj.CoreCompileInputs.cache
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStoreAPICaller\obj\Debug\net6.0\refint\PetStoreAPICaller.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.pdb
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStoreAPICaller\obj\Debug\net6.0\ref\PetStoreAPICaller.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStoreAPICaller\bin\Debug\net6.0\PetStoreAPICaller.deps.json
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStoreAPICaller\bin\Debug\net6.0\PetStoreAPICaller.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStoreAPICaller\bin\Debug\net6.0\PetStoreAPICaller.pdb
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.csproj.AssemblyReference.cache
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.AssemblyInfoInputs.cache
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.AssemblyInfo.cs
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.csproj.CoreCompileInputs.cache
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStoreAPICaller\obj\Debug\net6.0\refint\PetStoreAPICaller.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStoreAPICaller\obj\Debug\net6.0\PetStoreAPICaller.pdb
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStoreAPICaller\obj\Debug\net6.0\ref\PetStoreAPICaller.dll

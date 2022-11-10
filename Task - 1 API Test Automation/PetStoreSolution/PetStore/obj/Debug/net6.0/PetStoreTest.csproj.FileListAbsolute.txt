@@ -1,0 +1,268 @@
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\testhost.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\testhost.exe
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\nunit.engine.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\PetStoreTest.deps.json
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\PetStoreTest.runtimeconfig.json
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\PetStoreTest.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\PetStoreTest.pdb
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\System.Web.Http.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\nunit.framework.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\RestSharp.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\PetStoreAPICaller.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\bin\Debug\net6.0\PetStoreAPICaller.pdb
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\obj\Debug\net6.0\PetStoreTest.csproj.AssemblyReference.cache
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\obj\Debug\net6.0\PetStoreTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\obj\Debug\net6.0\PetStoreTest.AssemblyInfoInputs.cache
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\obj\Debug\net6.0\PetStoreTest.AssemblyInfo.cs
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\obj\Debug\net6.0\PetStoreTest.csproj.CoreCompileInputs.cache
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\obj\Debug\net6.0\PetStoreTest.csproj.CopyComplete
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\obj\Debug\net6.0\PetStoreTest.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\obj\Debug\net6.0\refint\PetStoreTest.dll
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\obj\Debug\net6.0\PetStoreTest.pdb
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\obj\Debug\net6.0\PetStoreTest.genruntimeconfig.cache
+C:\Udeepa\SDET\Interview\Test\PetStoreSolution\PetStore\obj\Debug\net6.0\ref\PetStoreTest.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\testhost.exe
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\testhost.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\nunit.engine.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\nunit.engine.api.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\nunit.engine.core.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\PetStoreTest.deps.json
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\PetStoreTest.runtimeconfig.json
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\PetStoreTest.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\PetStoreTest.pdb
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\System.Web.Http.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\nunit.framework.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\RestSharp.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\PetStoreAPICaller.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\bin\Debug\net6.0\PetStoreAPICaller.pdb
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\obj\Debug\net6.0\PetStoreTest.csproj.AssemblyReference.cache
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\obj\Debug\net6.0\PetStoreTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\obj\Debug\net6.0\PetStoreTest.AssemblyInfoInputs.cache
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\obj\Debug\net6.0\PetStoreTest.AssemblyInfo.cs
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\obj\Debug\net6.0\PetStoreTest.csproj.CoreCompileInputs.cache
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\obj\Debug\net6.0\PetStoreTest.csproj.CopyComplete
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\obj\Debug\net6.0\PetStoreTest.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\obj\Debug\net6.0\refint\PetStoreTest.dll
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\obj\Debug\net6.0\PetStoreTest.pdb
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\obj\Debug\net6.0\PetStoreTest.genruntimeconfig.cache
+C:\General\Medirect - QA Assigment\Task - 1 API Test Automation\PetStoreSolution\PetStore\obj\Debug\net6.0\ref\PetStoreTest.dll
